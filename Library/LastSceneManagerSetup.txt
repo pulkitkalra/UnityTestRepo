@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/TestProject_FirstPerson.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Baker House/Scene.unity
+  isLoaded: 1
+  isActive: 0
